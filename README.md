@@ -1,5 +1,13 @@
 # Predictive Maintenance using Machine Learning on Sensor-Based Industrial Data
 
+[![Open Predictive Maintenance App](https://img.shields.io/badge/Streamlit-App-green?style=for-the-badge)](https://predictive-maintenance-h7fcagn3g3u8pzfc6wbcjm.streamlit.app/)
+
+## 📸 Screenshots
+
+### 1️⃣ Streamlit App
+![Predictive Maintenance App](app.png)
+
+
 ## 📋 Overview
 
 This project develops a machine learning classification model to predict machine failures based on real-time sensor data. Predictive maintenance is critical in modern industries as it enables early detection of potential failures, reducing downtime, improving operational efficiency, and minimizing maintenance costs.
